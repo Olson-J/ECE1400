@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\olson\source\repos\Program10\Program10\Source.cpp(42,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\olson\source\repos\Program10\Program10\Source.cpp(46,8): warning C4553: '==': result of expression not used; did you intend '='?
+  Program10.vcxproj -> C:\Users\olson\source\repos\Program10\Debug\Program10.exe
