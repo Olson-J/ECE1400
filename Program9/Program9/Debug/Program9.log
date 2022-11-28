@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\olson\source\repos\Program9\Program9\Source.cpp(31,19): warning C4101: 'len': unreferenced local variable
+C:\Users\olson\source\repos\Program9\Program9\Source.cpp(31,9): warning C4101: 'j': unreferenced local variable
+C:\Users\olson\source\repos\Program9\Program9\Source.cpp(31,6): warning C4101: 'i': unreferenced local variable
+  Program9.vcxproj -> C:\Users\olson\source\repos\Program9\Debug\Program9.exe
